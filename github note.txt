@@ -1,0 +1,4 @@
+update my repo to github
+git remote add origin https://github.com/rayhan091/SIPEKA.git
+git branch -M main
+git push -u origin main

@@ -1,0 +1,89 @@
+.page {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 10mm;
+    margin: 5mm auto;
+    border: 1px #d3d3d3 solid;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 5px black;
+    position: relative;
+}
+
+table,
+tr,
+td {
+    border: 1px solid;
+}
+
+.div1 table,
+.div1 tr,
+.div1 td {
+    border: 0px;
+}
+
+.lampiran {
+    margin-left: auto;
+}
+
+.formulir {
+    text-align: center;
+}
+
+.data_pegawai {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.jenis_cuti {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.alasan_cuti {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ac_td {
+    padding-bottom: 100px;
+}
+
+.lama_cuti {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.catatan_cuti {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ca_cuti {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.alamat_cuti {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.atasan_langsung {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.al1 {
+    border: hidden;
+    border-top: 1px;
+}
+
+.al2 {
+    border-bottom: hidden;
+}
+
+.keputusan_pejabat {
+    width: 100%;
+    border-collapse: collapse;
+}
